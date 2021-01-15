@@ -4,7 +4,7 @@
     "description": "",
     "main": "triangulo.js",
     "scripts": {
-        "start": "node app",
+        "start": "node app ss",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
